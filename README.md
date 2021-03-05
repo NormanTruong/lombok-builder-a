@@ -1,1 +1,3 @@
-# lombok-builder-av2
+# lombok-builder-a
+
+Lombok builder info
